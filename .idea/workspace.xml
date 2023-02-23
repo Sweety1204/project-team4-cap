@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf8ca0db-86f4-4474-a9da-a63571abc5f1" name="Changes" comment="" />
+    <list default="true" id="bf8ca0db-86f4-4474-a9da-a63571abc5f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/Flaskprograms/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/demoflask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/demonumpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/demoparamiko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/demopriorityqueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/demoqueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/demostack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/mondodbconnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/mongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/netmikodemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/networkbandwidth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/paramikodemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/pexpectdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/sample.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/ticketbooking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/data/ymldatabase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/project/Arrival_Dates.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/project/Arrival_Dates_Final.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/project/bandwidth_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/project/comparing_two_different_excels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/project/comparing_two_excel_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adv_python/project/netmikoproject/demonetmikoproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv_python/data/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/adv_python/data/list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +41,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KoCTvgHxJHlVXW51AxKVFtrdfD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,20 +63,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/user765/PycharmProjects/project-team4/adv_python/data",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user765/PycharmProjects/project-team4/adv_python/project",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user765\PycharmProjects\project-team4\adv_python\project" />
       <recent name="C:\Users\user765\PycharmProjects\project-team4\adv_python\data" />
       <recent name="C:\Users\user765\PycharmProjects\project-team4\pandas" />
       <recent name="C:\Users\user765\PycharmProjects\project-team4" />
       <recent name="C:\Users\user765\PycharmProjects\hcl_vjw_python\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.list">
-    <configuration name="charts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.demonetmikoproject">
+    <configuration name="bandwidth_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-team4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/data/charts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/project/bandwidth_pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dataclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="comparing_two_different_excels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-team4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/data/dataclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/project/comparing_two_different_excels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +125,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="comparing_two_excel_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project-team4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/project/comparing_two_excel_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demoflask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-team4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +158,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/data/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/data/demoflask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demonetmikoproject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project-team4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/project/netmikoproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/project/netmikoproject/demonetmikoproject.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,55 +209,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project-team4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/data/sales.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="workbbook_styling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project-team4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adv_python/data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adv_python/data/workbbook_styling.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.list" />
-        <item itemvalue="Python.sales" />
-        <item itemvalue="Python.dataclass" />
-        <item itemvalue="Python.charts" />
-        <item itemvalue="Python.workbbook_styling" />
+        <item itemvalue="Python.demonetmikoproject" />
+        <item itemvalue="Python.bandwidth_pandas" />
+        <item itemvalue="Python.comparing_two_different_excels" />
+        <item itemvalue="Python.comparing_two_excel_files" />
+        <item itemvalue="Python.demoflask" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +229,17 @@
       <updated>1674631560073</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

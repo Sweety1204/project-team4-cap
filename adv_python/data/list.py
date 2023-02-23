@@ -1,6 +1,7 @@
 import numpy as np
-n=10000000
-ar1=np.arange(1,10).reshape(3,3)
-ar2=np.arange(16).reshape(4,4)
-print(np.eye())
-
+'''print(np.random.rand(5))
+print(np.random.rand(3,4))
+print(np.random.rand(2,2,2))'''
+#print(np.random.randn(4))
+print(np.random.randint(1,2,6))
+print(np.random.normal(0.0,1,5))
